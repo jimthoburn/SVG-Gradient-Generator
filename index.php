@@ -227,6 +227,7 @@
       and Internet Explorer.</strong><br />That said, be sure to test it
       within your project.&nbsp; : )
     </p>
+    <p class="note">Also on <a href="https://github.com/jimthoburn/SVG-Gradient-Generator">GitHub</a></p>
   </form>
   </div>
 

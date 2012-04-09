@@ -6,8 +6,8 @@ page scalable by using vector images wherever possible. Buttons are one of the
 elements that often create a challange, with all of their glossy roundness and
 gradients galore.
 
-This project is intended to make the process of creating plain HTML buttons,
-styled with CSS really easy by giving you the gradient as an SVG image that
+This project is intended to make the process of creating plain HTML buttons
+(styled with CSS) really easy by giving you the gradient as an SVG image that
 will work in all modern browsers (while still looking decent in the older
 ones, since a solid fall-back color is provided).
 
