@@ -1,9 +1,8 @@
-
 ### SVG Gradient Generator
 
 When building a “responsive” web site, it’s useful to keep everything on the
-page scalable by using vector images wherever possible. Buttons are one of the
-elements that often create a challange, with all of their glossy roundness and
+page scalable by using vector images as much as possible. Buttons are one of the
+elements that often create a challenge, with all of their glossy roundness and
 gradients galore.
 
 This project is intended to make the process of creating plain HTML buttons
