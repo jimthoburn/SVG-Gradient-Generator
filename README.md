@@ -15,7 +15,7 @@ a module or even the whole page. That’s the beauty of a vector image; it’s
 once-size-fits-all.
 
 If you simply want to use the tool, it’s currently hosted here:
-http://jimbomatic.com/gradient/
+https://labs.tobbi.co/gradient/
 
 ### Data URI
 
